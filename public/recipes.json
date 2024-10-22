@@ -2,7 +2,7 @@
     {
       "recipe_id": 1,
       "recipe_name": "Shorshe Ilish",
-      "recipe_image": "https://example.com/images/shorshe_ilish.jpg",
+      "recipe_image": "https://c8.alamy.com/comp/2T0CYN2/hilsa-fish-in-mustard-sauce-or-shorshe-ilish-served-with-white-rice-closeup-on-the-plate-on-the-table-horizontal-2T0CYN2.jpg",
       "short_description": "A traditional Bengali dish made with Hilsa fish cooked in mustard sauce.",
       "ingredients": ["Hilsa fish", "Mustard seeds", "Green chilies", "Turmeric", "Mustard oil", "Salt"],
       "preparing_time": 45,
@@ -11,7 +11,7 @@
     {
       "recipe_id": 2,
       "recipe_name": "Chingri Malai Curry",
-      "recipe_image": "https://example.com/images/chingri_malai_curry.jpg",
+      "recipe_image": "https://lh5.googleusercontent.com/proxy/tJp6JZNBhcZSVjNNygyYHcEKpTgQEGiKvTstghHv3bcCKQSWiANw-raF7kKTz9CQ9vtD2sSPw3BVm6LK6JTbmPsR6TUTVN7cmpTZpw",
       "short_description": "A rich prawn curry made with coconut milk and spices.",
       "ingredients": ["Prawns", "Coconut milk", "Onion", "Ginger-garlic paste", "Turmeric", "Garam masala", "Salt", "Mustard oil"],
       "preparing_time": 50,
@@ -20,7 +20,7 @@
     {
       "recipe_id": 3,
       "recipe_name": "Aloo Posto",
-      "recipe_image": "https://example.com/images/aloo_posto.jpg",
+      "recipe_image": "https://www.vegrecipesofindia.com/wp-content/uploads/2016/10/aloo-posto-recipe17.jpg",
       "short_description": "A simple Bengali dish made of potatoes and poppy seeds.",
       "ingredients": ["Potatoes", "Poppy seeds", "Green chilies", "Mustard oil", "Salt", "Turmeric"],
       "preparing_time": 30,
@@ -29,7 +29,7 @@
     {
       "recipe_id": 4,
       "recipe_name": "Bhapa Pitha",
-      "recipe_image": "https://example.com/images/bhapa_pitha.jpg",
+      "recipe_image": "https://www.shutterstock.com/image-photo/bangladeshi-bhapa-pitha-steamed-rice-260nw-180511364.jpg",
       "short_description": "A popular Bengali rice cake made with rice flour, coconut, and jaggery.",
       "ingredients": ["Rice flour", "Grated coconut", "Jaggery", "Water"],
       "preparing_time": 60,
@@ -38,7 +38,7 @@
     {
       "recipe_id": 5,
       "recipe_name": "Beguni",
-      "recipe_image": "https://example.com/images/beguni.jpg",
+      "recipe_image": "https://zuranazrecipe.com/wp-content/uploads/2016/03/Beguni-BANGLADESHI-RECIPE.jpg",
       "short_description": "Fried eggplant slices dipped in a gram flour batter, a favorite street food.",
       "ingredients": ["Eggplant", "Gram flour", "Turmeric", "Salt", "Mustard oil"],
       "preparing_time": 20,
@@ -47,7 +47,7 @@
     {
       "recipe_id": 6,
       "recipe_name": "Kosha Mangsho",
-      "recipe_image": "https://example.com/images/kosha_mangsho.jpg",
+      "recipe_image": "https://i.ndtvimg.com/i/2017-09/mutton-curry-650_650x400_41504677941.jpg",
       "short_description": "A rich and spicy slow-cooked mutton curry, best enjoyed with rice or paratha.",
       "ingredients": ["Mutton", "Onion", "Ginger-garlic paste", "Yogurt", "Cumin", "Red chilies", "Garam masala", "Mustard oil", "Salt"],
       "preparing_time": 90,
