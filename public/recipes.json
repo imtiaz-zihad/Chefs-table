@@ -1,0 +1,57 @@
+[
+    {
+      "recipe_id": 1,
+      "recipe_name": "Shorshe Ilish",
+      "recipe_image": "https://example.com/images/shorshe_ilish.jpg",
+      "short_description": "A traditional Bengali dish made with Hilsa fish cooked in mustard sauce.",
+      "ingredients": ["Hilsa fish", "Mustard seeds", "Green chilies", "Turmeric", "Mustard oil", "Salt"],
+      "preparing_time": 45,
+      "calories": 400
+    },
+    {
+      "recipe_id": 2,
+      "recipe_name": "Chingri Malai Curry",
+      "recipe_image": "https://example.com/images/chingri_malai_curry.jpg",
+      "short_description": "A rich prawn curry made with coconut milk and spices.",
+      "ingredients": ["Prawns", "Coconut milk", "Onion", "Ginger-garlic paste", "Turmeric", "Garam masala", "Salt", "Mustard oil"],
+      "preparing_time": 50,
+      "calories": 450
+    },
+    {
+      "recipe_id": 3,
+      "recipe_name": "Aloo Posto",
+      "recipe_image": "https://example.com/images/aloo_posto.jpg",
+      "short_description": "A simple Bengali dish made of potatoes and poppy seeds.",
+      "ingredients": ["Potatoes", "Poppy seeds", "Green chilies", "Mustard oil", "Salt", "Turmeric"],
+      "preparing_time": 30,
+      "calories": 300
+    },
+    {
+      "recipe_id": 4,
+      "recipe_name": "Bhapa Pitha",
+      "recipe_image": "https://example.com/images/bhapa_pitha.jpg",
+      "short_description": "A popular Bengali rice cake made with rice flour, coconut, and jaggery.",
+      "ingredients": ["Rice flour", "Grated coconut", "Jaggery", "Water"],
+      "preparing_time": 60,
+      "calories": 250
+    },
+    {
+      "recipe_id": 5,
+      "recipe_name": "Beguni",
+      "recipe_image": "https://example.com/images/beguni.jpg",
+      "short_description": "Fried eggplant slices dipped in a gram flour batter, a favorite street food.",
+      "ingredients": ["Eggplant", "Gram flour", "Turmeric", "Salt", "Mustard oil"],
+      "preparing_time": 20,
+      "calories": 150
+    },
+    {
+      "recipe_id": 6,
+      "recipe_name": "Kosha Mangsho",
+      "recipe_image": "https://example.com/images/kosha_mangsho.jpg",
+      "short_description": "A rich and spicy slow-cooked mutton curry, best enjoyed with rice or paratha.",
+      "ingredients": ["Mutton", "Onion", "Ginger-garlic paste", "Yogurt", "Cumin", "Red chilies", "Garam masala", "Mustard oil", "Salt"],
+      "preparing_time": 90,
+      "calories": 600
+    }
+  ]
+  
